@@ -1,0 +1,7 @@
+llama-index-core
+llama-index-utils-workflow
+pytz
+qdrant_client
+llama-index-vector-stores-qdrant
+fastapi
+uvicorn
